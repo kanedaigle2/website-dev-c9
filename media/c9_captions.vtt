@@ -4,28 +4,24 @@ NOTE Kane Daigle 2026-04-01
 
 1
 00:00:00.000 --> 00:00:05.000
-Welcome to our web design video.
+Responsive Web design provides an optimum viewing experience for desktop, tablet,
 
 2
 00:00:05.001 --> 00:00:10.000
-We demonstrate creating a responsive layout.
+and mobile devices. Begin my creating a wire frame
 
 3
 00:00:10.001 --> 00:00:15.000
-Notice how the header and navigation adjust to screen size.
+For each viewport. Larger viewports allow for mutiple columns
 
 4
 00:00:15.001 --> 00:00:20.000
-Images scale automatically for different devices.
+of content
 
 5
 00:00:20.001 --> 00:00:25.000
-Semantic HTML helps with accessibility.
+Use a single column layout for mobile viewports. When the wireframes
 
 6
 00:00:25.001 --> 00:00:30.000
-Captions appear to aid understanding.
-
-7
-00:00:30.001 --> 00:00:35.000
-This concludes the responsive web design demonstration.
+are complete, you can begin the webpage development!
