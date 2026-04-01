@@ -1,0 +1,67 @@
+/* Author: Kane Daigle
+   File Name: styles.css
+   Date: 2026-04-01
+*/
+
+body {
+    background-color: #c8dbe3;
+    font-family: Verdana, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #6B5B95; /* dark purple */
+    color: #fff;
+    padding: 2%;
+    text-align: center;
+}
+
+nav {
+    background-color: #967BB6; /* lighter purple */
+    padding: 0.5%;
+    text-align: center;
+    font-size: 1.25em;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+}
+
+nav li a {
+    color: #fff;
+    padding: 0 2%;
+    text-decoration: none;
+}
+
+main {
+    padding: 2%;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0.5em 0.5em 0.5em #404040;
+    margin-top: 1em;
+}
+
+video {
+    border: 0.5em double #6B5B95;
+    border-radius: 3em;
+    max-width: 100%;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.8em;
+    margin-top: 1em;
+    padding: 1em 0;
+}
